@@ -1,6 +1,6 @@
 # gradient-drawing-delaunay-diagram
 
-The following process of drawing gradients worked well, so I applied it to the representation using Delaunay diagrams.
+The following process of drawing gradients worked well, so I applied it to the representation using Delaunay diagrams.  
 https://github.com/ma-hirose/gradient-drawing
 
 ![standard_9](https://github.com/user-attachments/assets/2757a405-da5b-4325-9691-eff80744db51)
